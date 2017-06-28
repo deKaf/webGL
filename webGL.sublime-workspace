@@ -1,0 +1,896 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dealer",
+				"dealerValue"
+			],
+			[
+				"deal",
+				"dealerValue	statement"
+			],
+			[
+				"get",
+				"getValuefromCard	function"
+			],
+			[
+				"player",
+				"playerValue	statement"
+			],
+			[
+				"tga",
+				"tga	statement"
+			],
+			[
+				"detail",
+				"detailError"
+			],
+			[
+				"mask",
+				"maskError"
+			],
+			[
+				"normal",
+				"normalSuccess"
+			],
+			[
+				"diffuse",
+				"diffuseError"
+			],
+			[
+				"log",
+				"logFileName	statement"
+			],
+			[
+				"TGA",
+				"TGAdir"
+			],
+			[
+				"psd",
+				"PSDdir	statement"
+			],
+			[
+				"obj",
+				"obj	forstmt"
+			],
+			[
+				"IM",
+				"Image	module"
+			],
+			[
+				"par",
+				"partialName	function"
+			],
+			[
+				"as",
+				"asFloat	function"
+			],
+			[
+				"in",
+				"intensityattr"
+			],
+			[
+				"intensity",
+				"intensityattr	statement"
+			],
+			[
+				"Mp",
+				"MPlug	class"
+			],
+			[
+				"f",
+				"findPlug	function"
+			],
+			[
+				"api",
+				"apiTypeStr"
+			],
+			[
+				"MFnDe",
+				"MFnDependencyNode	class"
+			],
+			[
+				"make",
+				"makeIdentity	function"
+			],
+			[
+				"exist",
+				"exist"
+			],
+			[
+				"color",
+				"colorSetsarray	statement"
+			],
+			[
+				"update",
+				"update_grid	function"
+			],
+			[
+				"transform",
+				"transform"
+			],
+			[
+				"while",
+				"while	While Loop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/Web Inspector/swi.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 855,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/hello.jsx",
+			"settings":
+			{
+				"buffer_size": 44,
+				"line_ending": "Windows",
+				"name": "var test = \"Hello World!\""
+			}
+		},
+		{
+			"file": "/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Settings/User/Javascript-build.sublime-build",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Windows",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/JSHint/JSHint.sublime-build",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"sub",
+				"SublimeREPL: Python"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"ctrl",
+				"Package Control: List Packages"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/JavaScript Completions/JavaScript-Completions.sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/swi.sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript-Completions.sublime-settings",
+		"/C/webGL/webGL.sublime-project",
+		"/C/pymelscripts/index.html",
+		"/C/pymelscripts/psd-parsing.py",
+		"/C/pymelscripts/batchTest.py",
+		"/C/pymelscripts/image-parse.py",
+		"/C/pymelscripts/sbsTools.py",
+		"/C/pymelscripts/py-batchexport.py",
+		"/C/pymelscripts/udkscale.py",
+		"/C/pymelscripts/UVcleanup.py",
+		"/C/pymelscripts/apiUtilities.py",
+		"/C/pymelscripts/firstname.py",
+		"/C/pymelscripts/exist",
+		"/C/pymelscripts/boxIntersect.py",
+		"/C/Users/fmnoor/Downloads/ArenaNet_TechnicalArt_Test_FTE/code_test/FarhanNoor_ArenaNetTechnicalArt_blackjack.py",
+		"/C/pymelscripts/blackJack.py",
+		"/C/Users/fmnoor/Downloads/ArenaNet_TechnicalArt_Test_FTE/code_test/ArenaNetTechnicalArt_riddles_.py",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/pymelscripts/sbs-UI.py",
+		"/C/Users/fmnoor/Downloads/TextureLister.py",
+		"/C/pymelscripts/jsontTest.py",
+		"/C/Qt/qt5vars.cmd",
+		"/C/pymelscripts/qTreeWidget.py",
+		"/C/pymelscripts/importSys.py",
+		"/C/pymelscripts/Maya-Sublime.sublime-project",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/Python/Python.sublime-build",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/pymelscripts/lightselection_test.py",
+		"/C/pymelscripts/qtCustom.py",
+		"/C/pymelscripts/groupCleanup.py",
+		"/C/pymelscripts/test1.py",
+		"/C/pymelscripts/test2.py",
+		"/C/pymelscripts/test.py",
+		"/C/pymelscripts/om_test.py",
+		"/C/pymelscripts/mayatest.py",
+		"/C/pymelscripts/fizzbuzz.py",
+		"/C/pymelscripts/rename_child_ingroup.py",
+		"/C/pymelscripts/colorSetcleanup.py",
+		"/C/scripts/pymelscripts/rename_child_ingroup.py",
+		"/C/scripts/pymelscripts/UVcleanup.py",
+		"/C/scripts/pymelscripts/rename_hypershadeNodes.py",
+		"/C/scripts/pymelscripts/gridSel.py",
+		"/C/scripts/pymelscripts/gridSelection.py",
+		"/C/scripts/homework/assignment2.py",
+		"/C/Users/fmnoor/Documents/maya/2014-x64/Maya.env",
+		"/C/scripts/pymelscripts/grid_spacing.py",
+		"/C/scripts/pymelscripts/grid_spacing",
+		"/C/scripts/pymelscripts/ttg_minecraft_meshCleanup.py",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/AutoPEP8/Default (Windows).sublime-keymap",
+		"/C/scripts/pymelscripts/notes",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/AutoPEP8/AutoPep8 (Windows).sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/MayaProject.sublime-project",
+		"/C/Users/fmnoor/AppData/Local/Temp/Rar$DRa0.852/CustomFBXExporter.py",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/test.py",
+		"/C/Users/fmnoor/Desktop/test3.py",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/test4.py",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/test2.py",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/User/test2"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"exist",
+			"split",
+			"game class",
+			"logging.debug",
+			"print",
+			"ScaleFix",
+			"udkScaleFix",
+			"indices",
+			"uvSets",
+			"indices",
+			"setChecked",
+			"#two selection lists are created - one that's flat\nfSelection = pm.ls(selection=True, type='transform', dag=True) \n#and one that isn't\nhSelection = pm.ls(selection=True, type='transform') \n\n\nfor obj in fSelection: #iterate through the flat list\n	if pm.listRelatives(hSelection, parent=True) == []: #if user has selected top most node\n		if re.search(\"pasted__\", str(obj.name())): ##this checks to see if pasted__ even exists on the node before renaming\n		#for user-readability, all namespaces are being removed and just the bottom most transform mode\n			print (\"Renaming %s to %s\")%(obj.name().rsplit('|',1)[-1], \n			 obj.name().rsplit('|',1)[-1].replace(\"pasted__\",\"\")) \n			obj.rename(obj.name().replace(\"pasted__\",\"\"))\n\n	else: ##user just selected a mesh\n		while (pm.listRelatives(hSelection, parent=True) != ['']): ##do a check to see if there's a parent\n			try: \n				pm.select(pm.listRelatives(hSelection, ap=True)[0])\n				hSelection = pm.ls(selection=True, type='transform') ##climb that ladder\n			except:\n				break \n				#breaks when it eventually throws an error as it hits the top of the heirarchy\n\n			fSelection = pm.ls(selection=True, type='transform', dag=True) #updating selection list with highest parent\n			for obj in fSelection:\n				if re.search(\"pasted__\", str(obj.name())):\n					print (\"Renaming %s to %s\")%(obj.name().rsplit('|',1)[-1],\n					 obj.name().rsplit('|',1)[-1].replace(\"pasted__\",\"\"))\n					obj.rename(obj.name().replace(\"pasted__\",\"\"))",
+			"fSelection",
+			"flatSelection",
+			"selectedGroup",
+			"True",
+			",)",
+			"\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"logging.info",
+			"logging.debug"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1641,
+								1641
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Packages/Web Inspector/swi.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/hello.jsx",
+					"settings":
+					{
+						"buffer_size": 44,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								44
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "var test = \"Hello World!\"",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/fmnoor/AppData/Roaming/Sublime Text 2/Settings/User/Javascript-build.sublime-build",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 118.0
+	},
+	"output.exec":
+	{
+		"height": 201.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/pymelscripts/Maya-Sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
