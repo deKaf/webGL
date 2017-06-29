@@ -7,7 +7,7 @@ var newBuffer;
 var mvMatrix;
 var shader;
 var vertexPositionAttribute;
-var perspectiveMatrix;
+var pMatrix;
 
 
 
@@ -17,7 +17,8 @@ function initBuffers() {
   newBuffer = gl.createBuffer();
   gl.bindBuffer( gl.ARRAY_BUFFER, newBuffer);
 
-  var square = [ 1.0,  1.0,  0.0,
+  var square = [ 
+    1.0,  1.0,  0.0,
     -1.0, 1.0,  0.0,
     1.0,  -1.0, 0.0,
     -1.0, -1.0, 0.0 ];
@@ -118,6 +119,9 @@ function start() {
     initShaders();
     initBuffers();
 
+    //render interval
+    requestAnimationFrame(drawScene);
+
   }
 }
 
@@ -172,7 +176,7 @@ function mvTranslate(v) {
 }
 
 function setMatrixUniforms() {
-  var pUniform = gl.getUniformLocation(shader, "uPMatrix");
+  var pUniform = gl.getUniformLocation(shader, "pMatrix");
   gl.uniformMatrix4fv(pUniform, false, new Float32Array(pMatrix.flatten()));
 
   var mvUniform = gl.getUniformLocation(shader, "uMVMatrix");
