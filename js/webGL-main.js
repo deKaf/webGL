@@ -147,7 +147,7 @@ function drawScene() {
   var CAMERA_FAR = 100.0;
   
   gl.clear ( gl.COLOR_BUFFER_BIT | gl.DEPTH_BUFFER_BIT); //clear buffer
-  pMatrix = makePerspective(FOV, (640.0/480.0), CAMERA_NEAR, CAMERA_FAR);
+  pMatrix = makePerspective(FOV, (RES.width/RES.height), CAMERA_NEAR, CAMERA_FAR);
   
 
   loadIdentity();
