@@ -3,13 +3,39 @@
 <html>
   <head>
     <title>WebGL</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <link rel="stylesheet" href="./css/main.css" type="text/css">
-    <script type='text/javascript' src='./js/webGL-main.js'></script>
+    
+    <meta http-equiv = "Content-Type" content="text/html; charset=utf-8">
+    
+    <link rel = "stylesheet" href="./css/main.css" type="text/css">
+    
+    <script type = 'text/javascript' src='./js/webGL-main.js'></script>
+    <script type = 'text/javascript' src='./js/util/sylvester.js'></script>
+    <script type = 'text/javascript' src='./js/util/glUtilities.js'></script>
+    
+    <!-- Pixel Shader  -->
+    <script id = 'pixelShader' type ='pixelShader'>
+    
+    void main(void) {
+      gl_FragColor = vec4(1.0,1.0,1.0,1.0);
+    }
+
+    </script>
+    <!-- Vertex Shader -->
+    <script id ='vertexShader' type ='vertexShader'>
+
+    attribute vec3 aVertexPosition;
+    uniform mat4 uMVMatrix;
+    uniform mat4 uPMatrix;
+
+    void main(void) {
+      gl_Position = uPMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
+    }
+    </script>
+
   </head>
 
   <body onload="start()">
-    <canvas id="glcanvas" width="1280" height="720">
+    <canvas id="glcanvas" width="640" height="480">
       Nothing at all
     </canvas>
   </body>
