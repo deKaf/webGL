@@ -15,15 +15,9 @@ var pMatrix;
 
 function initBuffers() {
   newBuffer = gl.createBuffer();
+  
   gl.bindBuffer( gl.ARRAY_BUFFER, newBuffer);
-
-  var square = [ 
-    1.0,  1.0,  0.0,
-    -1.0, 1.0,  0.0,
-    1.0,  -1.0, 0.0,
-    -1.0, -1.0, 0.0 ];
-
-    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(square), gl.STATIC_DRAW);
+  gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(createSquare()), gl.STATIC_DRAW);
 }
 
 
