@@ -8,49 +8,15 @@
     
     <link rel = "stylesheet" href="./css/main.css" type="text/css">
     
-    
+    <script src= './js/util/three.js'></script>
     <script src='./js/geometry/basic-geometry.js'></script>
     
     <script src='./js/webGL-main.js'></script>
     <script src='./js/util/sylvester.js'></script>
     <script src='./js/util/glUtilities.js'></script>
-
-    <!-- Vertex Shader -->
-    <script id ='vertexShader' type ='vertexShader'>
-
-    attribute vec3 aVertexPosition;
-    attribute vec4 aVertexColor;
-
-    uniform mat4 uMVMatrix;
-    uniform mat4 pMatrix;
-
-    varying vec4 vertexCol;
-
-    void main(void) {
-      gl_Position = pMatrix * uMVMatrix * vec4(aVertexPosition, 1.0);
-      vertexCol = aVertexColor;
-    }
-
-    </script>
-
-    <!-- Pixel Shader  -->
-    <script id = 'pixelShader' type ='pixelShader'>
     
-    precision mediump float;
-    varying vec4 vertexCol;
-
-    void main(void) {
-      //gl_FragColor = vec4 (1.0);     
-      gl_FragColor = vertexCol;
-    }
-
-    </script>
-
   </head>
 
   <body onload="start()">
-    <canvas id="glcanvas" width="1280" height="720">
-      Nothing at all
-    </canvas>
   </body>
 </html>

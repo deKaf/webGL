@@ -1,20 +1,3 @@
-function createSquare() {
+var boxMaterial = new THREE.MeshBasicMaterial( {color: 0x00ff00 });
+var boxGeo = new THREE.Mesh( new THREE.BoxGeometry(10,10,10), boxMaterial );
 
-	var geoSquare = [ 
-	    1.0,  1.0,  0.0,
-	    -1.0, 1.0,  0.0,
-	    1.0,  -1.0, 0.0,
-	    -1.0, -1.0, 0.0 ];
-    
-    return geoSquare;
-};
-
-
-function createTriangle() {
-	var geoTriangle =  [
-		0.0,  1.0,  0.0,
-        -1.0, -1.0,  0.0,
-         1.0, -1.0,  0.0 ];
-
-     return geoTriangle;
-};

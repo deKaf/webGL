@@ -2,6 +2,7 @@ canvas {
 	border: 2px solid red;
 	background-color: red;
 }
-video {
-	display: none;
+
+body {
+	margin: 0;
 }
