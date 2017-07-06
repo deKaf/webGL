@@ -1,7 +1,6 @@
 
 var renderer, scene,camera;
-var boxGeo;
-var boxMaterial;
+
 //------------------------------- On page load -----------------------------//
 
 function start() {
@@ -21,18 +20,12 @@ function drawScene() {
   camera = new THREE.PerspectiveCamera(FOV, (RES.width/RES.height), CAMERA_NEAR, CAMERA_FAR);
   scene = new THREE.Scene();
 
-  
-
-  
-  
-  
-
   var ambientLight = new THREE.AmbientLight(0x404040);
 
   scene.add( ambientLight );
   scene.add( boxGeo );
 
-  //camera.position.z = 5;
+  camera.position.z = 50;
 
 
   renderer = new THREE.WebGLRenderer();
@@ -40,8 +33,11 @@ function drawScene() {
   document.body.appendChild( renderer.domElement);
 }
 
-function animate() {
+var animate =function() {
   requestAnimationFrame( animate );
   renderer.render( scene, camera );
+
+  boxGeo.rotation.x += 0.03;
+  boxGeo.rotation.y += 0.01;
 }
 
