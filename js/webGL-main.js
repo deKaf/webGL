@@ -21,9 +21,14 @@ function drawScene() {
   scene = new THREE.Scene();
 
   var ambientLight = new THREE.AmbientLight(0x404040);
-
+  
+  var pointLight1 = new THREE.PointLight(0x404040, 5.0, 100);
+  pointLight1.position.set( -20, 10, 0 );
+  
   scene.add( ambientLight );
+  scene.add( pointLight1 );
   scene.add( boxGeo );
+
 
   camera.position.z = 50;
 
@@ -37,7 +42,7 @@ var animate =function() {
   requestAnimationFrame( animate );
   renderer.render( scene, camera );
 
-  boxGeo.rotation.x += 0.03;
+  //boxGeo.rotation.x += 0.03;
   boxGeo.rotation.y += 0.01;
 }
 
