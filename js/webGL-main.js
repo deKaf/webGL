@@ -27,7 +27,7 @@ function drawScene() {
   
   scene.add( ambientLight );
   scene.add( pointLight1 );
-  scene.add( boxGeo );
+  scene.add( sphereGeo );
 
 
   camera.position.z = 50;
@@ -43,6 +43,6 @@ var animate =function() {
   renderer.render( scene, camera );
 
   //boxGeo.rotation.x += 0.03;
-  boxGeo.rotation.y += 0.01;
+  sphereGeo.rotation.y += 0.01;
 }
 
